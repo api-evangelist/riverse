@@ -1,7 +1,24 @@
 aid: riverse
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/riverse.png
 name: Riverse
-description: Riverse is a company surfaced as a portfolio company of techstars and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Riverse (linked property rainbowstandard.io / Rainbow Standard) is a carbon credit
+  certification platform and registry that issues high-integrity carbon credits from carbon
+  removal and greenhouse-gas reduction projects. Its methodologies span biogas, biomass, battery
+  recycling, and other engineered decarbonization pathways, with credits approved under ICVCM
+  Core Carbon Principles and endorsed by ICROA. The public surface is a policy, methodology, and
+  procedure documentation site for project developers; no public developer API, OpenAPI
+  specification, SDK, or webhook surface was found during enrichment.
 url: https://raw.githubusercontent.com/api-evangelist/riverse/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +28,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Carbon Credits
+- Carbon Removal
+- Sustainability
+- Climate
+- Registry
+- Certification
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -21,5 +44,15 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/riverse-domain-security.yml
 - type: Website
   url: https://rainbowstandard.io/
+- type: Documentation
+  name: Rainbow Standard Documentation
+  url: https://docs.rainbowstandard.io/
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
