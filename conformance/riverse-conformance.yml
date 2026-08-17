@@ -1,0 +1,106 @@
+generated: '2026-08-17'
+method: searched
+source: https://docs.rainbowstandard.io/rainbow-standard-documents/procedures-manual
+note: >-
+  Rainbow (formerly Riverse) is a carbon crediting programme, so the standards it conforms to
+  are carbon-market and regulatory standards, not API standards. Every entry below was read
+  from Rainbow's own published documentation or its own announcements. The API/technical
+  standards are recorded as conforms:false because Rainbow publishes no machine-readable API
+  contract at all — an honest zero, not an omission.
+standards:
+- id: icvcm-core-carbon-principles
+  name: ICVCM Core Carbon Principles (CCP)
+  conforms: true
+  evidence: >-
+    Rainbow announced ICVCM approval under the Core Carbon Principles on 2026-03-05; the
+    Integrity Council published a confirmation that the Rainbow programme is CCP-Eligible.
+  url: https://rainbowstandard.io/news/rainbow-officially-approved-by-the-icvcm
+- id: icroa-endorsement
+  name: ICROA endorsement
+  conforms: true
+  evidence: Rainbow published receipt of full endorsement from ICROA.
+  url: https://rainbowstandard.io/news/rainbow-receives-full-endorsement-from-icroa
+- id: corsia
+  name: ICAO CORSIA (Carbon Offsetting and Reduction Scheme for International Aviation)
+  conforms: partial
+  evidence: >-
+    The Procedures Manual publishes a CORSIA eligibility procedure — Project Developers
+    seeking CORSIA Phase 1 eligibility must use a Rainbow methodology approved by the CORSIA
+    TAB. Eligibility is asserted at the credit-block level via labels, not programme-wide.
+  url: https://docs.rainbowstandard.io/rainbow-standard-documents/procedures-manual/corsia-and-article-6
+- id: paris-agreement-article-6
+  name: Paris Agreement Article 6.2 (ITMOs)
+  conforms: partial
+  evidence: >-
+    Published Article 6 eligibility procedure and Letter of Authorization template for
+    Internationally Transferred Mitigation Outcomes; asserted per credit block via labels.
+  url: https://docs.rainbowstandard.io/rainbow-standard-documents/procedures-manual/corsia-and-article-6
+- id: eu-crcf-2024-3012
+  name: EU Carbon Removals and Carbon Farming Regulation (EU/2024/3012)
+  conforms: partial
+  evidence: >-
+    Rainbow runs two crediting tracks — non-CRCF (base VCM) and CRCF-compliant — with CRCF
+    compliance assessed at each monitoring period, verification audit and issuance, and
+    labelled at the credit-block level. Per-methodology CRCF requirement pages are published.
+  url: https://docs.rainbowstandard.io/rainbow-standard-documents/procedures-manual/crcf-requirements
+- id: iso-14064-2
+  name: ISO 14064-2
+  conforms: true
+  evidence: Referenced on rainbowstandard.io as the carbon accounting basis for GHG quantification.
+  url: https://rainbowstandard.io/standard
+- id: iso-27001
+  name: ISO/IEC 27001
+  conforms: false
+  evidence: >-
+    NOT a Rainbow certification. The Registry IT security requirements REQUIRE that the
+    third-party application authentication provider be ISO 27001 certified; Rainbow itself
+    publishes no ISO 27001 certificate. Recorded here so the requirement is not misread as
+    a Rainbow accreditation.
+  url: https://docs.rainbowstandard.io/rainbow-standard-documents/procedures-manual/registry-requirements
+- id: openapi
+  conforms: false
+  evidence: No OpenAPI/Swagger document served on any Rainbow host (see x-coverage in apis.yml).
+- id: asyncapi
+  conforms: false
+  evidence: No event, streaming, or webhook surface is documented.
+- id: oauth2
+  conforms: false
+  evidence: No public OAuth surface; /.well-known/oauth-authorization-server 404s on every host.
+- id: oidc
+  conforms: false
+  evidence: /.well-known/openid-configuration 404s on every host.
+- id: rfc9457-problem-details
+  conforms: false
+  evidence: No public API, therefore no published error envelope.
+- id: rfc9116-security-txt
+  conforms: false
+  evidence: /.well-known/security.txt 404s on every host, though a disclosure contact IS published in the docs.
+- id: llms-txt
+  conforms: true
+  evidence: docs.rainbowstandard.io/llms.txt returns a real 25.8KB index of all 163 documentation pages.
+  url: https://docs.rainbowstandard.io/llms.txt
+- id: content-signals
+  name: Cloudflare Content Signals Policy
+  conforms: true
+  evidence: >-
+    docs.rainbowstandard.io/robots.txt declares "Content-Signal: ai-train=yes, search=yes,
+    ai-input=yes" — an explicit AI-usage consent declaration.
+  url: https://docs.rainbowstandard.io/robots.txt
+compliance_programme:
+  url: https://docs.rainbowstandard.io/other/governance-and-integrity
+  published_policies:
+  - Rainbow Bylaws
+  - Governance Framework
+  - Appointments Policy
+  - Terms of Reference — Governing Board
+  - Terms of Reference — Standard Advisory Board
+  - Terms of Reference — Expert Community
+  - Conflict of Interest Policy
+  - Complaints and Appeals Policy
+  - KYC Policy
+  - Anti-Bribery and Corruption Policy
+  - Anti-Money Laundering (AML) Policy
+  - Corporate Social & Environmental Responsibility (CSR) Policy
+  note: >-
+    This is the basis for the Compliance pointer in apis.yml — a real, published, itemized
+    compliance programme with named policies, not an inferred posture.

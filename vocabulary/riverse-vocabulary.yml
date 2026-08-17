@@ -1,0 +1,951 @@
+generated: '2026-08-17'
+method: derived
+source: https://docs.rainbowstandard.io/glossary.md
+note: Faithful extraction of the Rainbow (formerly Riverse) published Glossary — 207 defined terms across
+  13 sections (a general carbon-market vocabulary plus one per methodology). Every term and definition
+  is verbatim from Rainbow's own GitBook glossary page, with the HTML table markup stripped; nothing was
+  authored, paraphrased or invented here. Rainbow publishes no API, so this is a DOMAIN vocabulary (carbon
+  crediting, MRV, methodology terms) rather than an API data dictionary. The companion Acronyms page (https://docs.rainbowstandard.io/accronyms.md)
+  is published but currently EMPTY — it returns 200 with a heading and no content.
+name: Rainbow Standard Glossary
+human_url: https://docs.rainbowstandard.io/glossary
+term_count: 207
+section_count: 13
+sections:
+- name: General
+  term_count: 33
+- name: Battery second life
+  term_count: 23
+- name: BioCCS
+  term_count: 26
+- name: Biomass carbon removal and storage (BiCRS)
+  term_count: 22
+- name: Distributed biochar
+  term_count: 20
+- name: BiCRS Marine sub-sediment burial
+  term_count: 9
+- name: Biogas from anaerobic digestion
+  term_count: 9
+- name: Refurbishing of electronic devices
+  term_count: 12
+- name: Biobased construction materials
+  term_count: 8
+- name: Carbonated materials
+  term_count: 9
+- name: Enhanced rock weathering
+  term_count: 23
+- name: Transport module
+  term_count: 7
+- name: CRCF
+  term_count: 6
+terms:
+- term: Baseline scenario
+  section: General
+  definition: The set of processes used to model the greenhouse gas emissions of what would happen without
+    the project. Also called the reference scenario or business-as-usual scenario.
+- term: Buffer pool
+  section: General
+  definition: A shared account of Rainbow Carbon Credits that projects issuing removal Rainbow Carbon
+    Credits contribute to, used to compensate for carbon removal reversal.
+- term: Carbon avoidance
+  section: General
+  definition: Avoiding greenhouse gas emissions that would have occurred without the project’s mitigation
+    activity.
+- term: Carbon removal
+  section: General
+  definition: Physically removing carbon from the atmosphere and storing it in biologic or geologic pools.
+    Also called carbon sequestration.
+- term: Carbon finance
+  section: General
+  definition: The financial instruments and funding mechanisms resulting from the selling of carbon credits
+    to support projects.
+- term: Certification
+  section: General
+  definition: The combined process of validation and verification of a project to issue Rainbow Carbon
+    Credits.
+- term: Commitment period
+  section: General
+  definition: The duration over which carbon will be removed.
+- term: Crediting period
+  section: General
+  definition: The duration over which a given project is eligible for Rainbow Carbon Credits. It may be
+    renewed by undergoing a new validation audit.
+- term: Discount factor
+  section: General
+  definition: A percentage of verified Rainbow Carbon Credits eliminated from each project and never issued.
+    This acts as a safeguard against uncertainty in GHG quantifications and overestimated carbon removal/avoidance.
+- term: Ex-post
+  section: General
+  definition: After the fact. Actual outcomes after the project mitigation activity has occurred. All
+    Rainbow Carbon Credits are ex-post. As opposed to ex-ante, which is before the fact.
+- term: Global Warming Potential (GWP)
+  section: General
+  definition: A measure of how much heat a greenhouse gas traps in the atmosphere over a specific time
+    period, compared to carbon dioxide (CO₂). It is a relative measure of the impact of a greenhouse gas.
+- term: Indigenous peoples
+  section: General
+  definition: People that self-identify as Indigenous and are recognized by others as Indigenous, with
+    historical continuity with pre-colonial societies; distinct languages, customs, and institutions;
+    a strong connection to ancestral lands or territories; and are often governed by customary laws or
+    traditional authorities.
+- term: Local communities
+  section: General
+  definition: Local communities are non-Indigenous people with a long-standing connection to a particular
+    rural or semi-rural geographic area; reliance on local natural resources for livelihood; social cohesion
+    or shared cultural traits, though not necessarily Indigenous; living in geographic proximity to a
+    part of the project area, including but not limited to sourcing, production, and/or end use locations.
+- term: MCI
+  section: General
+  definition: The Material Circularity Indicator (MCI), developed by the Ellen MacArthur Foundation, measures
+    the extent to which a product's material flows are restorative.
+- term: Mitigation activity
+  section: General
+  definition: The specific processes within a project that lead to carbon removal/avoidance.
+- term: Monitoring
+  section: General
+  definition: Ongoing measurement of indicators to determine whether the project delivers the expected
+    carbon removal/avoidance. Used for Rainbow Carbon Credit verification.
+- term: Monitoring period
+  section: General
+  definition: The period of time covered by a project's Monitoring Report, for which they have monitored
+    operations following the Monitoring Plan, and undergo verification audit and are issued credits.
+- term: Non-conformity
+  section: General
+  definition: Failure by a Project Developer or a VVB to comply with the rules and procedures established
+    by the certification scheme, of which they are members or under which they operate
+- term: Project
+  section: General
+  definition: The mitigation activity/activities that are under consideration for issuance of Rainbow
+    Carbon Credits.
+- term: Project Developer
+  section: General
+  definition: Entity responsible for executing the project, which should include a contact person plus
+    company/organization name. The Project Developer may apply for Rainbow Carbon Credits themselves (the
+    default case), or designate a Registration Partner.
+- term: Project output
+  section: General
+  definition: Products or services that the project generates.
+- term: Project scenario
+  section: General
+  definition: The set of processes used to model the greenhouse gas emissions of the project, which must
+    be functionally equivalent to the baseline scenario.
+- term: Registration partner
+  section: General
+  definition: An entity chosen by the Project Developer to apply for Rainbow Carbon Credits and meet the
+    Project Developer's obligations on their behalf.
+- term: Rainbow Registry
+  section: General
+  definition: The digital platform created by Rainbow that tracks the issuance, purchases, and retirements
+    of Rainbow Carbon Credits.
+- term: Rainbow Carbon Credit
+  section: General
+  definition: 1 tonne of CO2eq removed or avoided by a project’s mitigation activity.
+- term: Rainbow Standard Documentation
+  section: General
+  definition: The highest level of documentation that covers all projects and methodologies under the
+    Rainbow Standard. It includes the Rainbow Standard Rules, the Procedures Manual, and other documents.
+- term: Rebound effect
+  section: General
+  definition: Improvements in resource efficiency or climate impacts that yield lower-than-expected gains
+    due to behavioral or systemic effects.
+- term: Reversal- avoidable
+  section: General
+  definition: Reversal of carbon removal that results from actions or omissions within the project’s control,
+    could have been prevented with reasonable foresight and risk mitigation typically a result of failure
+    to maintain equipment, follow protocol, or update systems; human error or negligence; or foreseeable
+    and mitigable natural disturbances.
+- term: Reversal- unavoidable
+  section: General
+  definition: Reversal of carbon removal that is caused by events beyond reasonable control or prediction,
+    where mitigation was not feasible or would have imposed unreasonable burden, resulted from natural
+    disasters (e.g. wildfire, earthquake, extreme weather); pest or disease outbreaks; or policy or regulatory
+    change beyond project control
+- term: Reversal monitoring audit
+  section: General
+  definition: An audit carried out by a VVB during the monitoring period or post-crediting monitoring
+    period to verify monitoring of stored carbon and any reversals.
+- term: Validation audit
+  section: General
+  definition: First audit to check if a project is eligible for Rainbow Carbon Credits, and to estimate
+    the expected number of credits that will be issued through the entire crediting period.
+- term: Verification audit
+  section: General
+  definition: Subsequent audits of whether the expected carbon removal/avoidance occurred, based on ongoing
+    monitoring. After verification, Rainbow Carbon Credits are issued.
+- term: Validation and verification body
+  section: General
+  definition: A body that audits projects against the Rainbow Standard requirements and the applicable
+    methodology requirements, through validation and verification audits. The body is subject to the Rainbow
+    Standard VVB requirements.
+- term: Auxiliary components
+  section: Battery second life
+  definition: The individual non-electrochemical parts within a battery pack, including casings, connectors,
+    and electronic control systems. It does not include Battery Units (BU) or Battery Management System
+    (BMS).
+- term: Battery marketplace
+  section: Battery second life
+  definition: An online or physical platform for buying, selling, or trading batteries or battery-related
+    services.
+- term: Battery pack
+  section: Battery second life
+  definition: The item encompassing all other components described here. It includes battery units (arranged
+    in series, parallel, or both), and depending on the specific battery type, may include a BMS and various
+    auxiliary components.
+- term: Battery recycling
+  section: Battery second life
+  definition: The process of recovering used batteries to extract valuable materials (such as metals,
+    plastics, and chemicals) and ensure that harmful substances are safely disposed of. Unlike refurbishing
+    or regeneration, the recycled battery is no longer usable after the process.
+- term: Battery refurbishing
+  section: Battery second life
+  definition: The mechanical process of replacing worn components, reconditioning structure, disassembly,
+    cleaning, and testing. High-quality parts are reused for "second-life" batteries, extending lifespan
+    for battery repurposing or returning to its original application.
+- term: Battery regeneration
+  section: Battery second life
+  definition: The process of restoring battery performance by reversing chemical degradation, via e.g.
+    deep discharging and recharging, or applying specific electrical pulses. It can also include electrolytes
+    replacement (Pb-acid batteries). It improves battery's capacity and efficiency without replacing major
+    components. The regenerated battery usually returns to its original application.
+- term: Battery repurposing
+  section: Battery second life
+  definition: A form of battery second life, where the battery is used in a different application than
+    its original purpose and its first life use.
+- term: Battery reuse
+  section: Battery second life
+  definition: A form of battery second-life, where the battery is used in the same application as in its
+    first life, that it was initially designed for.
+- term: Battery second life
+  section: Battery second life
+  definition: Extended use of a battery after it can no longer perform its original application from its
+    first life. This reduces environmental impact by delaying recycling or disposal, and replacing the
+    need for new battery production.
+- term: Battery Unit (BU)
+  section: Battery second life
+  definition: A single battery (lead-acid batteries) or cells and modules (li-ion and NiMH) that can store
+    electrical energy and provide power.
+- term: EV battery
+  section: Battery second life
+  definition: A battery designed specifically to power electric vehicles (EVs), typically using lithium-ion
+    and NiMH chemistry.
+- term: Extended Producer Responsibility (EPR)
+  section: Battery second life
+  definition: A policy approach that holds manufacturers responsible for the entire lifecycle of their
+    products, especially waste management.
+- term: Energy storage system (ESS)
+  section: Battery second life
+  definition: A battery capable of storing energy in order to supply electrical energy at a later time.
+- term: Industrial battery
+  section: Battery second life
+  definition: Batteries that are used in off-highway electric vehicles such as forklifts, construction
+    equipment such as scissor lifts, excavators, and agricultural machinery.
+- term: Li-ion
+  section: Battery second life
+  definition: Lithium ion (Li-ion) battery is a type of rechargeable battery that relies on lithium ions
+    moving between a graphite anode and a lithium metal oxide cathode during charge and discharge cycles.
+- term: LMT
+  section: Battery second life
+  definition: Batteries used in Light Means of Transport (LMT) such as e-bikes and e-scooters. Usually
+    using Li-ion and NiMH battery chemistries.
+- term: NiMH
+  section: Battery second life
+  definition: A battery Nickel Metal Hydrade (NiMH) battery is a type of rechargeable battery that uses
+    a nickel oxide hydroxide cathode and a hydrogen-absorbing alloy anode.
+- term: Pb-acid
+  section: Battery second life
+  definition: Lead-acid (Pb-acid) battery is a type of rechargeable battery that uses lead dioxide as
+    the cathode, sponge lead as the anode, and a sulfuric acid solution as the electrolyte.
+- term: Preparation for reuse
+  section: Battery second life
+  definition: Inspecting, testing, and preparing battery units, auxiliary components and packs to be reused
+    in their original function without significant alterations
+- term: Preparation for repurpose
+  section: Battery second life
+  definition: Inspecting, testing, and preparing battery units, auxiliary components and packs to be repurposed
+    and used for a different function (e.g. an EV battery repurposed to an ESS).
+- term: PRO
+  section: Battery second life
+  definition: A Producer Responsibility Organization (PRO) is an organization or company responsible for
+    ensuring that producers meet their environmental obligations under EPR frameworks.
+- term: SLI
+  section: Battery second life
+  definition: Starting, Lighting, and Ignition (SLI) batteries are a specific type of lead-acid battery
+    used in vehicles to power ignition, lights, and electronic accessories.
+- term: SoH
+  section: Battery second life
+  definition: The State of Health (SoH) represents a battery's condition and energy capacity compared
+    to its original state. Expressed as a percentage, 100% indicates perfect condition, while lower values
+    show degradation due to factors like age and use. SoH helps evaluate a battery's performance, and
+    is a factor in determining remaining battery lifetime.
+- term: Additional biomass
+  section: BioCCS
+  definition: A biomass fraction of a retrofit project, defined as any biomass used above the amount of
+    biomass consumed in the baseline.
+- term: Associated CO 2 Fossil CO2 emitted as a result of the capture process. Baseline biomass
+  section: BioCCS
+  definition: A biomass fraction of a retrofit project, defined as the amount of biomass consumed by the
+    underlying facility as it existed prior to the retrofit.
+- term: BioCCS
+  section: BioCCS
+  definition: The process of capturing biogenic CO2 at a point-source, transporting and securely storing
+    it for over 1,000 years in a geological storage reservoir that is permitted under a relevant international
+    or national regulation.
+- term: Bioenergy
+  section: BioCCS
+  definition: Renewable energy derived from organic materials, such as plant and animal waste, agricultural
+    and forestry residues, that are converted into heat, electricity, or fuels through processes like
+    combustion, gasification, oxidation, anaerobic digestion and fermentation.
+- term: Biogenic CO 2 CO2 originating from biomass sources. It is produced by chemical or biological conversion
+    of biomass through combustion, oxidation, anaerobic digestion and fermentation. Its capture and storage
+    leads to net carbon removals, and is eligible for removal carbon credits. Biomass category
+  section: BioCCS
+  definition: The qualitative type and source of biomass eligible under this methodology.
+- term: Biomass fraction
+  section: BioCCS
+  definition: 'An accounting construct to delineate which fraction of biomass is used for what purpose:
+    baseline vs additional biomass (retrofit); biomass allocated to CO2 generation vs allocated to bioenergy
+    generation vs parasitic load biomass (greenfield).'
+- term: Capture facility
+  section: BioCCS
+  definition: The facility that captures a biogenic CO2-containing stream from a point-source and processes
+    it into a transport- or storage-ready form, meeting CO2 purity and pressure requirements.
+- term: Captured CO 2 CO2 captured and concentrated from a point-source of CO2. This can include both
+    biogenic and fossil CO2. CRCF
+  section: BioCCS
+  definition: The European Commission's Regulation 2024/3012 on establishing a Union certification framework
+    for permanent carbon removals, carbon farming and carbon storage in products, also called Carbon Removal
+    and Carbon Farming regulation . URL
+- term: Embodied emissions
+  section: BioCCS
+  definition: Emissions associated with the construction of infrastructure and machinery attributed to
+    the BioCCS project.
+- term: Exit point
+  section: BioCCS
+  definition: A point at which CO2 is transferred out of the capture facility for the purpose of either
+    transport or storage, which excludes any smokestack, flue or other outlet at the capture facility
+    from which CO2 is released into the atmosphere.
+- term: Fossil CO 2 CO2 originating from fossil fuels. Its capture and storage is not eligible for removal
+    carbon credits. Fugitive CO 2 emissions
+  section: BioCCS
+  definition: Irregular or unintended CO2 emissions from sources that are not localized, or are too diverse
+    or not substantial enough to be monitored individually (e.g. equipment like reactors, pipelines, trucks).
+- term: Geological storage
+  section: BioCCS
+  definition: Storage of CO2 at a geological storage site permitted under a relevant international or
+    national regulation.
+- term: Greenfield A project setup, defined as the installation of a new facility, where biomass conversion
+    and CO2 capture are co-designed. Heat
+  section: BioCCS
+  definition: Also referred to as useful heat. Generated to satisfy an economically justifiable demand
+    for heat, for heating or cooling purposes.
+- term: Induced GHG emissions
+  section: BioCCS
+  definition: Increase in direct and indirect greenhouse gas emissions over the entire lifecycle of a
+    BioCCS project due to the implementation of the project.
+- term: Leakage
+  section: BioCCS
+  definition: Displacement of emitting activities from the project scope to areas outside the project
+    scope, resulting in an indirect transfer of GHG emissions rather than the absolute removal of emissions.
+- term: Marginal energy crop
+  section: BioCCS
+  definition: A biomass category for energy crops grown on marginal, degraded or contaminated land, or
+    as a cover crop or intermediary crop.
+- term: Mixed stream
+  section: BioCCS
+  definition: 'A mixed stream is either CO 2 streams generated and captured together: a stream of mixed
+    fossil and biogenic CO2, generated from feedstock that includes a share of fossil-based material,
+    or CO 2 streams generated separately, and captured together : the co-capture of the project CO2 stream
+    and one or more CO2 streams from project-unrelated sources at the same capture facility. This includes
+    fossil CO2, biogenic CO2 from sustainable (zero-rated) biomass and biogenic CO2 from unsustainable
+    (non-zero-rated) biomass.'
+- term: Nameplate energy generation capacity
+  section: BioCCS
+  definition: Maximum theoretical (power) output of a facility, determined by the operator and registered
+    with authorities.
+- term: Non-segregated CO 2 stream
+  section: BioCCS
+  definition: Project's captured CO2 that is mixed with other CO2 streams for any transport or injection
+    step.
+- term: Operator
+  section: BioCCS
+  definition: A natural or legal person, or public entity, that operates or controls the carbon removal
+    project (i.e the capture facility), or holds decisive economic power over the technical functioning
+    of the project.
+- term: Point-source
+  section: BioCCS
+  definition: A localized, identifiable origin of CO2 emissions from which a concentrated CO2 stream can
+    be captured.
+- term: Post-crediting monitoring period
+  section: BioCCS
+  definition: Period up until the point at which responsibility for all geological storage sites used
+    by the activity has been transferred to the relevant competent national authorities, in accordance
+    with national regulations.
+- term: Primary energy crop
+  section: BioCCS
+  definition: A biomass category for energy crops grown as main crop on agricultural land, if this land
+    has been repeatedly cultivated for energy crops for at least 20 years prior to the start of the project's
+    activity.
+- term: RED
+  section: BioCCS
+  definition: The European Commission's amended Directive 2018/2001 on the promotion of use of energy
+    from renewable sources, also called Renewable Energy Directive III . URL
+- term: Retrofit A project setup, defined as the addition of a carbon capture unit to an existing biomass
+    conversion site. Segregated CO 2 stream
+  section: BioCCS
+  definition: Project's captured CO2 that is at all times transported and injected separately from other
+    CO2 streams.
+- term: Vented CO 2 emissions
+  section: BioCCS
+  definition: Intentional release of CO2 for operational or safety reasons.
+- term: Bioenergy
+  section: Biomass carbon removal and storage (BiCRS)
+  definition: Renewable energy derived from organic materials, such as plant and animal waste, agricultural
+    crops, and forestry residues, that are converted into heat, electricity, or fuels through processes
+    like combustion, gasification, or fermentation
+- term: BECCS
+  section: Biomass carbon removal and storage (BiCRS)
+  definition: BECCS (Bioenergy with Carbon Capture and Storage) is a carbon mitigation technology that
+    combines the use of bioenergy (from biomass) with carbon capture and storage (CCS) to remove and store
+    carbon dioxide (CO2) emissions from the atmosphere
+- term: Biochar
+  section: Biomass carbon removal and storage (BiCRS)
+  definition: material that is rich in stable carbon, produced through the thermal conversion of biomass
+    in a low-oxygen environment
+- term: Delivery Risk
+  section: Biomass carbon removal and storage (BiCRS)
+  definition: The potential risk that a project will not be able to deliver the anticipated results, such
+    as the projected amount of biochar or carbon sequestration benefits.
+- term: End use application
+  section: Biomass carbon removal and storage (BiCRS)
+  definition: The way biochar will be used, such as direct application to soil, mixing with compost and
+    application of the mix to soil, mixing with cement for use in concrete.
+- term: End use point
+  section: Biomass carbon removal and storage (BiCRS)
+  definition: The step in the production chain where biochar leaves the direct control of biochar producers,
+    where it is assumed to be incorporated into its final end use application.
+- term: Embodied Transport Emissions
+  section: Biomass carbon removal and storage (BiCRS)
+  definition: GHG emissions associated with the production, maintenance, and operation of transportation
+    infrastructure and vehicles across all modes of transport (e.g., road, sea).
+- term: Feedstock
+  section: Biomass carbon removal and storage (BiCRS)
+  definition: The organic material used as the raw input for biochar production, such as wood, agricultural
+    residues, or manure.
+- term: Gasification
+  section: Biomass carbon removal and storage (BiCRS)
+  definition: high-temperature process that involves the partial oxidation of organic materials in the
+    presence of a controlled amount of oxygen (or air) and a gasification agent
+- term: GVW
+  section: Biomass carbon removal and storage (BiCRS)
+  definition: Gross Vehicle Weight is the total weight of a vehicle, including its own weight plus the
+    weight of any cargo
+- term: Loading rate
+  section: Biomass carbon removal and storage (BiCRS)
+  definition: Ratio of actual load to the full load or capacity (e.g. mass or volume) that a vehicle carries
+    per trip.
+- term: Molar H/C org ratio
+  section: Biomass carbon removal and storage (BiCRS)
+  definition: The ratio of hydrogen to organic carbon atoms in biochar, used to assess the stability and
+    quality of biochar; lower ratios indicate higher stability.
+- term: Permanence horizon
+  section: Biomass carbon removal and storage (BiCRS)
+  definition: Sequestration horizon, commitment period
+- term: Production batch
+  section: Biomass carbon removal and storage (BiCRS)
+  definition: Biochar produced under the same conditions regarding production temperature and feedstock
+    mix. A production batch has a maximum validity of 365 days.
+- term: Production batch ID
+  section: Biomass carbon removal and storage (BiCRS)
+  definition: A unique identifier for each production batch.
+- term: Pyrolysis
+  section: Biomass carbon removal and storage (BiCRS)
+  definition: thermal decomposition process that occurs in the absence of oxygen
+- term: Random reflectance
+  section: Biomass carbon removal and storage (BiCRS)
+  definition: A measure of the reflectivity of biochar under a microscope, indicating the degree of carbonization,
+    inertinite characteristics and permanence of the biochar.
+- term: Segment
+  section: Biomass carbon removal and storage (BiCRS)
+  definition: Part of the transportation process involving the movement of inputs or products between
+    point A and point B within the project boundary.
+- term: Transport segment
+  section: Biomass carbon removal and storage (BiCRS)
+  definition: One shipment of a fixed amount of material from a known location A to a known location B.
+    It represents a one-way trip.
+- term: Transport Unit
+  section: Biomass carbon removal and storage (BiCRS)
+  definition: A general term used to describe any vehicle, vessel, or mode of transportation used to move
+    goods or passengers from one location to another. In this module version, this includes trucks and
+    ships.
+- term: Transport type/ mode of transport
+  section: Biomass carbon removal and storage (BiCRS)
+  definition: Type of transport. E.g. by land (truck, rail, pipe), by water (boat, ferry), by air (airplane).
+    This module's first version focuses on road and sea transport type.
+- term: Verification period
+  section: Biomass carbon removal and storage (BiCRS)
+  definition: The time period of project activities that a given verification audit and carbon credit
+    issuance covers. For biochar application to soils, this may be one calendar year, or the duration
+    of validity of one production batch.
+- term: Kiln
+  section: Distributed biochar
+  definition: An individual pyrolysis unit that produced biochar. A kiln may be mobile or stationary,
+    used individually or collectively, and open or closed.
+- term: Site
+  section: Distributed biochar
+  definition: A distinct location where a kiln or kilns are operated.
+- term: Kiln operator
+  section: Distributed biochar
+  definition: The individual performing pyrolysis and producing biochar. This includes preparing biomass,
+    loading it into the kiln, surveilling pyrolysis, storing biochar, taking biochar samples, and ensuring
+    durable biochar end use.
+- term: Kiln supervisor
+  section: Distributed biochar
+  definition: Hired by the Project Developer to be the party responsible for ensuring quality of the operations
+    by on-the-ground presence and random visits to kiln operators.
+- term: dMRV
+  section: Distributed biochar
+  definition: A digital platform (application or website) provided by a third-party dMRV provider other
+    than Rainbow, to allow kiln operators to record and document their operations, ensuring compliance
+    with methodology requirements.
+- term: Kiln run
+  section: Distributed biochar
+  definition: One full pyrolysis process, the operation of one kiln, one batch of biochar produced.
+- term: Production Batch
+  section: Distributed biochar
+  definition: Biochar produced under the same conditions regarding kiln type, biomass feedstock, and temperature
+    curve. A production batch has a maximum validity of 6 months or 200 tonnes of biochar, whichever comes
+    first. Key measurements like carbon content and H/C ratio are done once per production batch.
+- term: Biochar
+  section: Distributed biochar
+  definition: Material that is rich in stable carbon, produced through the thermal conversion of biomass
+    in a low-oxygen environment.
+- term: Bone-dry biochar
+  section: Distributed biochar
+  definition: Biochar with a moisture content of 0%, typically measured immediately after exiting the
+    kiln before any water is added during quenching.
+- term: End use application
+  section: Distributed biochar
+  definition: The way biochar will be used, such as direct application to soil, mixing with compost and
+    application of the mix to soil, mixing with cement for use in concrete.
+- term: End use point
+  section: Distributed biochar
+  definition: The step in the production chain where biochar leaves the direct control of biochar producers,
+    where it is assumed to be incorporated into its final end use application.
+- term: Feedstock
+  section: Distributed biochar
+  definition: The organic material used as the raw input for biochar production, such as wood, agricultural
+    residues, or manure.
+- term: Molar H/C org ratio
+  section: Distributed biochar
+  definition: The ratio of hydrogen to organic carbon atoms in biochar, used to assess the stability and
+    quality of biochar; lower ratios indicate higher stability.
+- term: Production batch ID
+  section: Distributed biochar
+  definition: A unique identifier for each production batch.
+- term: Pyrolysis
+  section: Distributed biochar
+  definition: Thermal decomposition process that occurs in the absence of oxygen
+- term: Quenching
+  section: Distributed biochar
+  definition: The process of rapidly cooling biochar immediately after pyrolysis to stop combustion and
+    minimize methane emissions.
+- term: Site Composite Pile
+  section: Distributed biochar
+  definition: A growing pile of biochar subsamples accumulated by the Kiln Operator over the course of
+    a Production Batch. After each kiln run, a defined quantity of biochar is set aside and added to this
+    pile. One Site Composite Pile is maintained per site per Production Batch.
+- term: Site Composite Sample
+  section: Distributed biochar
+  definition: A representative sample of biochar taken from the thoroughly mixed Site Composite Pile once
+    the Production Batch is complete. Site Composite Samples from all sites within the same Production
+    Batch are combined to form the Production Batch Composite Pile.
+- term: Production Batch Composite Pile
+  section: Distributed biochar
+  definition: A combined pile of Site Composite Samples collected from all sites contributing to the same
+    Production Batch. The pile is thoroughly mixed by the Kiln Supervisor before a representative sample
+    is taken for laboratory analysis.
+- term: Production Batch Representative Sample
+  section: Distributed biochar
+  definition: The final representative sample taken from the mixed Production Batch Composite Pile and
+    sent to an accredited laboratory for measurement of organic carbon content, permanence indicators
+    (H/Corg ratio and/or inertinite content), and, once per year, environmental pollutants.
+- term: Anoxic
+  section: BiCRS Marine sub-sediment burial
+  definition: The absence of oxygen. In marine sediments, anoxic layers contain no detectable oxygen,
+    as the rate of oxygen diffusion into these layers is slower than its consumption. In these conditions,
+    microbial activity and organic matter degradation occur at significantly slower rates compared to
+    oxic environments.
+- term: Burial event
+  section: BiCRS Marine sub-sediment burial
+  definition: The act of burying feedstock mixture into the storage point.
+- term: Feedstock
+  section: BiCRS Marine sub-sediment burial
+  definition: The organic material used as the raw input for sub-sediment storage, such as wood, agricultural
+    residues, or manure.
+- term: Feedstock mixture
+  section: BiCRS Marine sub-sediment burial
+  definition: The specific biomass feedstock composition (e.g. corn husks, rice straw) and state (e.g.
+    shredded, emulsified, mixed into a slurry) used in the sub-sediment storage.
+- term: Marine sediments
+  section: BiCRS Marine sub-sediment burial
+  definition: Deposits of insoluble material that have built up on the seafloor, primarily rock and soil
+    particles, and remains of marine and terrestrial biomass. Sediments have pore space that is filled
+    with marine water, and exchange can occur with the marine water in sediments and the overlying water
+    column via diffusion.
+- term: Sub-sediment
+  section: BiCRS Marine sub-sediment burial
+  definition: A layer of sediment that is not exposed to the overlying water column, does not hold multicellular
+    life and does not experience re-suspension. There is no exchange with marine water and the overlying
+    water column.
+- term: Storage batch
+  section: BiCRS Marine sub-sediment burial
+  definition: All burial events of homogenous feedstock mixtures at one storage site over a maximum of
+    31 days. Data shall be monitored and reported at the storage batch level, and multiple storage batches
+    can be grouped and analyzed together for one project.
+- term: Storage site
+  section: BiCRS Marine sub-sediment burial
+  definition: A group of similar storage points within 24 km ^2 of one another with similar site characteristics.
+- term: Storage point
+  section: BiCRS Marine sub-sediment burial
+  definition: The precise spot where a burial event occurs. Similar storage points may be grouped into
+    a storage site.
+- term: Biogas
+  section: Biogas from anaerobic digestion
+  definition: A mixture of gasses produced by the anaerobic digestion of organic matter, primarily composed
+    of biogenic methane and carbon dioxide. It can be used directly as a renewable energy source, or can
+    be purified to biomethane.
+- term: Biogenic methane
+  section: Biogas from anaerobic digestion
+  definition: Methane produced from the decomposition of organic matter, as opposed to methane derived
+    from fossil fuels. It has a slightly lower global warming potential than fossil-based methane.
+- term: Biomethane
+  section: Biogas from anaerobic digestion
+  definition: Methane that has been purified from biogas to meet quality standards for natural gas. It
+    can be used for heating, electricity generation, or as vehicle fuel.
+- term: Dedicated crop
+  section: Biogas from anaerobic digestion
+  definition: Crops specifically grown for use as feedstock in energy production, such as maize or sorghum,
+    as opposed to crops grown for food or other purposes. They are cultivated during the main growing
+    season and harvested at maturity.
+- term: Digestate
+  section: Biogas from anaerobic digestion
+  definition: The nutrient-rich residue left after the anaerobic digestion of organic feedstock, which
+    can be used as a fertilizer or soil conditioner.
+- term: Energy cover crop
+  section: Biogas from anaerobic digestion
+  definition: Crops like clover or rye that are grown during the off-season for use as biogas feedstock.
+    They prevent soil erosion and are harvested for energy production, unlike traditional cover crops,
+    which are mixed into the soil.
+- term: Feedstock
+  section: Biogas from anaerobic digestion
+  definition: Organic materials used as inputs in the production of biogas through anaerobic digestion,
+    such as agricultural residues, food waste, or manure.
+- term: Methane
+  section: Biogas from anaerobic digestion
+  definition: A colorless, odorless flammable gas (CH₄) that is the main component of natural gas and
+    biogas. It is a potent greenhouse gas when released into the atmosphere.
+- term: Nitrous oxide
+  section: Biogas from anaerobic digestion
+  definition: A potent greenhouse gas (N₂O) occasionally emitted during anaerobic digestion, especially
+    with high-nitrogen feedstock. It has a much higher global warming potential than carbon dioxide.
+- term: Buyback
+  section: Refurbishing of electronic devices
+  definition: Buying used devices from consumers.
+- term: Device A
+  section: Refurbishing of electronic devices
+  definition: In this methodology, Device A refers to the first life of the refurbished device in the
+    project scenario, and the waste device in the baseline scenario.
+- term: Device B
+  section: Refurbishing of electronic devices
+  definition: In this methodology, Device B refers to the refurbished device in the project scenario,
+    and the new manufactured device in the baseline scenario.
+- term: Functioning device
+  section: Refurbishing of electronic devices
+  definition: A device that is successfully refurbished by the refurbishing project. It replaces a new
+    manufactured device.
+- term: Non-functioning device
+  section: Refurbishing of electronic devices
+  definition: A device that is not successfully refurbished by the refurbishing project. It may be recycled,
+    dismantled for spare parts to be used by the refurbisher, or sold for spare parts.
+- term: Refurbishing
+  section: Refurbishing of electronic devices
+  definition: The process of repairing and restoring used devices to good working order.
+- term: Residual value
+  section: Refurbishing of electronic devices
+  definition: The value (economic and lifetime) of a used device that is still remaining when it is sold
+    and/or sent for refurbishing.
+- term: Scrap materials
+  section: Refurbishing of electronic devices
+  definition: Parts of used devices that are no longer functioning and are replaced by spare parts in
+    the refurbishing process.
+- term: Small IT and telecommunication equipment
+  section: Refurbishing of electronic devices
+  definition: A category of electronic waste (e-waste) defined by the WEEE directive, composed of devices
+    no larger than 50 cm external dimension, including mobile phones, GPS, routers, personal computers,
+    and printers.
+- term: Sold devices
+  section: Refurbishing of electronic devices
+  definition: A functioning device that was successfully refurbished and sold functioning by the refurbishing
+    project. It fully meets the market requirements and replaces a new manufactured device.
+- term: Spare parts
+  section: Refurbishing of electronic devices
+  definition: Functioning parts used in the refurbishing process to replace non-functioning parts, such
+    as a battery or display. They may be new manufactured parts, or harvested from dismantled non-functioning
+    devices.
+- term: WEEE
+  section: Refurbishing of electronic devices
+  definition: Waste from Electrical and Electronic Equipment, also called e-waste
+- term: Biobased construction material
+  section: Biobased construction materials
+  definition: Materials derived from biomass that are used in construction and other applications
+- term: Biogenic carbon
+  section: Biobased construction materials
+  definition: Carbon from organic matter that can be sequestered and stored in biobased products during
+    their production, and released back into the atmosphere if they are incinerated or decayed. It is
+    considered part of the short, natural carbon cycle, as opposed to fossil based carbon
+- term: Biomass
+  section: Biobased construction materials
+  definition: The biodegradable fraction of materials from biogenic origin, such as trees, plants, and
+    agricultural and urban waste
+- term: Carbon storage duration
+  section: Biobased construction materials
+  definition: The number of years that biogenic carbon will be stored in a construction material. This
+    corresponds to the reference service lifetime for the material’s first use, plus extended storage
+    periods from reuse, recycling, or landfilling
+- term: Environmental Product Declaration (EPD)
+  section: Biobased construction materials
+  definition: A standardized and independently verified document that communicates the environmental performance
+    of a product, including construction materials, based on a life cycle assessment
+- term: Reference service lifetime
+  section: Biobased construction materials
+  definition: The expected or predefined period of use for a product or construction material, measured
+    in number of years. Used for assessing its environmental impact over its life cycle
+- term: Modules A-D
+  section: Biobased construction materials
+  definition: Components and terminology of an environmental assessment under EN 15804, outlining the
+    stages of a life cycle assessment for construction materials. They encompass (A) Production, (B) Construction/Installation,
+    (C) Use, and (D) End of Life
+- term: Project biobased material
+  section: Biobased construction materials
+  definition: The biobased material from the project that is subject to removal and/or avoidance Rainbow
+    Carbon Credit issuance. Its production/use is the mitigation activity for this methodology.
+- term: Mineralization, Mineral Carbonation
+  section: Carbonated materials
+  definition: A chemical process where CO2 reacts with alkaline materials (e.g., concrete, cement, industrial
+    residues) to form stable carbonates (e.g. CaCO3), permanently storing CO2. Mineralization and carbonation
+    are used interchangeably in the present methodology.
+- term: Ex situ
+  section: Carbonated materials
+  definition: Processes that occur in controlled, engineered environments, such as reactors or industrial
+    facilities, rather than in situ approaches that take place in the natural environment (e.g. enhanced
+    rock weathering).
+- term: Carbonated Material
+  section: Carbonated materials
+  definition: The solid product resulting from mineral carbonation, containing CO2 locked in stable carbonate
+    form (e.g., carbonated concrete or aggregate).
+- term: Carbonation curing
+  section: Carbonated materials
+  definition: A process where CO2 is introduced to concrete or cement-based materials during the curing
+    stage, to accelerate strength development and chemically bind CO2 into the material.
+- term: Carbonation batch
+  section: Carbonated materials
+  definition: The carbonated material produced using the same input materials (alkaline feedstock and
+    CO2) and operating conditions. It is assumed that all carbonated material from the same carbonation
+    batch has similar characteristics.
+- term: Alkaline Feedstock
+  section: Carbonated materials
+  definition: Materials that contain metal oxides (e.g., calcium, magnesium, iron) that react with CO2
+    to form carbonates.
+- term: Biogenic CO 2 CO2 originating from biomass sources. Its carbonation leads to net carbon removals,
+    and is eligible for removal carbon credits. Atmospheric CO 2 CO2 captured directly from the atmosphere,
+    typically from Direct Air Capture (DAC) or ambient air. Its carbonation leads to net carbon removals,
+    and is eligible for removal carbon credits. Fossil CO 2 CO2 originating from fossil fuels. Its carbonation
+    leads to carbon storage, and is eligible for avoidance carbon credits. Calcination CO 2 CO2 originating
+    from lime that is calcinated in cement production, from breaking up CaCO3 into CO2 and calcium silicates.
+    Its carbonation leads to carbon storage, and is eligible for avoidance carbon credits. Fugitive CO
+    2 Emissions
+  section: Carbonated materials
+  definition: Unintended leaks of CO2 from equipment (e.g., reactors, pipelines, trucks). Not to be confused
+    with the Leakage eligibility criteria.
+- term: Ordinary Portland Cement (OPC)
+  section: Carbonated materials
+  definition: The most common type of cement, produced by heating limestone and other materials to form
+    clinker, which is then ground into a fine powder.
+- term: Supplementary cementitious materials (SCM)
+  section: Carbonated materials
+  definition: Industrial by-products (e.g. fly ash, slag) or natural pozzolans used to partially replace
+    OPC in concrete. They can both replace and reduce clinker-related emissions, and serve as reactive
+    alkaline materials that bind CO2 into stable carbonates.
+- term: NFZ
+  section: Enhanced rock weathering
+  definition: Near field zone, the immediate area where rocks are weathered and where weathering products
+    infiltrate horizontally or vertically, typically close to the spreading event. This methodology counts
+    both CDR gain and loss from the NFZ.
+- term: FFZ
+  section: Enhanced rock weathering
+  definition: Far field zone, the area further away from the deployment where weathering products and
+    signals disperse over time. Depending on the project this may include soil below the depth of the
+    NFZ, groundwater, surface water in the deployment area's hydrological basin, and the ocean. In this
+    methodology only CDR loss from the FFZ is considered.
+- term: Base Cations
+  section: Enhanced rock weathering
+  definition: Positively charged ions that are released when silicate or carbonate minerals dissolve,
+    including but not limited to Ca^{2+} and Mg^{2+} . Base cations increase alkalinity and drive CDR
+    when they react with CO2aq, and are critical indicators in measuring how much weathering has occurred.
+- term: DIC
+  section: Enhanced rock weathering
+  definition: Dissolved inorganic carbon, the sum of inorganic carbon species ( CO_2 , HCO_3^- , CO_3^{2-}
+    ) in water, critical for tracking carbon sequestration.
+- term: Carbonate System Parameters
+  section: Enhanced rock weathering
+  definition: Key chemical properties that regulate carbon storage in water, including pH, alkalinity,
+    DIC, and partial pressure of CO_2 , (p CO_2 ,).
+- term: Alkalinity
+  section: Enhanced rock weathering
+  definition: The ability of water or soil to neutralize acids, primarily driven by bicarbonate ( HCO_3^-
+    ) and carbonate ( CO_3^{2-} ). In ERW, it is the most direct indicator that CO_2 , removal has occurred,
+    as increased alkalinity reflects mineral weathering and atmospheric CO_2 conversion into dissolved
+    inorganic carbon.
+- term: Weathering Signal/Products
+  section: Enhanced rock weathering
+  definition: A wide array of measurable evidence that minerals have broken down (weathered), releasing
+    chemical elements into the environment, e.g. base cations ( Ca^{2+} and Mg^{2+} ), bicarbonate ( HCO_3^-
+    ), dissolved silica ( SiO_2 ), precipitated carbonates (e.g., CaCO_3 formation in soils or water bodies).
+    These indicators confirm that weathering is occurring and can be used to estimate CDR.
+- term: Project Area
+  section: Enhanced rock weathering
+  definition: The sum of all spreading areas in a project where rock spreading occurs, referring directly
+    to the spreading sites and not the associated FFZ.
+- term: Spreading area
+  section: Enhanced rock weathering
+  definition: The specific site/s where crushed rock (e.g., basalt, olivine) is applied for enhanced weathering.
+    This area is carefully chosen based on soil properties, land use (e.g., cropland, pasture), and accessibility
+    for long-term monitoring. One spreading area includes one treatment plot plus its associated representative
+    control plot.
+- term: Control Plot
+  section: Enhanced rock weathering
+  definition: A designated area where no rock is spread, used as a reference to compare against the treatment
+    plot. This ensures that credited changes in soil or water chemistry are due to enhanced weathering
+    from spread rock rather than natural weathering. The control plot defines the baseline. ERW projects
+    are only issued removal credits for the removal that occurs beyond baseline removals. The same monitoring
+    requirements and calculations apply to both the control and treatment plots.
+- term: Treatment Plot
+  section: Enhanced rock weathering
+  definition: The area where crushed rock is applied in order to drive CDR from enhanced weathering. This
+    is considered the Project Scenario according to the Riverse Standard.
+- term: Business As Usual Control Plot
+  section: Enhanced rock weathering
+  definition: A control plot managed according to normal agricultural or environmental practices without
+    enhanced weathering. For example, if the study is on farmland, the BAU plot would follow conventional
+    pH management practices such as liming, which drives CDR. This is the preferred type of control plot,
+    but is not always practical and feasible for farmers to maintain.
+- term: Negative Control Plot
+  section: Enhanced rock weathering
+  definition: A control plot that receives no BAU liming treatments.
+- term: Strata
+  section: Enhanced rock weathering
+  definition: Distinct groups of spreading areas that share relatively homogeneous characteristics affecting
+    CDR through ERW. These are determined based on key climate and soil properties, such as soil type,
+    pH, topographic wetness index (TWI), and temperature.
+- term: Stratification
+  section: Enhanced rock weathering
+  definition: The process of grouping spreading areas into strata based on key environmental factors that
+    influence ERW. This process ensures that control and treatment plots are representative of the conditions
+    under which weathering occurs, reducing variability and improving the reliability of CDR quantification,
+    and can prove a project's eligibility for spatial extrapolation. Stratification must be completed
+    before rock spreading and documented in the PDD.
+- term: Spatial Extrapolation
+  section: Enhanced rock weathering
+  definition: The process of extending measured results from monitored sites (original sites) to new sites
+    (extrapolation sites) within the same stratum to reduce the density of field sampling. Project Developers
+    may only do this after proving low variance in measured and verified CDR for a given strata. It allows
+    Project Developers to expand deployment areas while maintaining rigorous CDR monitoring.
+- term: Original Sites
+  section: Enhanced rock weathering
+  definition: A site within the project that has undergone full-density sampling, monitoring, and verification.
+    It provides the first set of monitoring and measurements used to evaluate CDR and to validate whether
+    new sites within the same stratum are eligible for spatial extrapolation.
+- term: Extrapolation Sites
+  section: Enhanced rock weathering
+  definition: A site added under reduced monitoring requirements after validation confirms it shares key
+    characteristics with an Original Site and falls within a low-variability stratum. At least one round
+    of sampling is required to confirm similarity; no separate control plot is needed.
+- term: Spatially Integrated
+  section: Enhanced rock weathering
+  definition: Measurements that combine data from multiple locations (depth and lateral) to provide an
+    overall assessment of weathering in the NFZ.
+- term: Temporally Integrated
+  section: Enhanced rock weathering
+  definition: Data collected over time to capture variability and cumulative CDR over the reporting period.
+- term: Charge Balanced
+  section: Enhanced rock weathering
+  definition: A system is charge-balanced when the total positive charges (cations) equal the total negative
+    charges (anions) in solution. In ERW, this specifically refers to base cations being charge balanced
+    by bicarbonate ions, as opposed to other ions like sulfate or nitrate, to ensure that weathering leads
+    to CDR rather than non-carbonic acid weathering.
+- term: Feedstock source
+  section: Enhanced rock weathering
+  definition: A given site where feedstock is sourced from, with one set of GPS coordinates, name of the
+    mine/quarry/area, and feedstock waste status.
+- term: Feedstock batch
+  section: Enhanced rock weathering
+  definition: A given amount of feedstock that comes from the same feedstock source, in the same mining/extraction
+    round (within 72 hours). It is assumed that all feedstock in the same batch has the same characteristics,
+    and samples and measurements only need to be taken once per feedstock batch.
+- term: Embodied Transport Emissions
+  section: Transport module
+  definition: GHG emissions associated with the production, maintenance, and operation of transportation
+    infrastructure and vehicles across all modes of transport (e.g., road, sea).
+- term: GVW
+  section: Transport module
+  definition: Gross Vehicle Weight is the total weight of a vehicle, including its own weight plus the
+    weight of any cargo
+- term: Loading rate
+  section: Transport module
+  definition: Ratio of actual load to the full load or capacity (e.g. mass or volume) that a vehicle carries
+    per trip.
+- term: Segment
+  section: Transport module
+  definition: Part of the transportation process involving the movement of inputs or products between
+    point A and point B within the project boundary.
+- term: Transport segment
+  section: Transport module
+  definition: One shipment of a fixed amount of material from a known location A to a known location B.
+    It represents a one-way trip.
+- term: Transport Unit
+  section: Transport module
+  definition: A general term used to describe any vehicle, vessel, or mode of transportation used to move
+    goods or passengers from one location to another. In this module version, this includes trucks, ships
+    and pipeline.
+- term: Transport type/ mode of transport
+  section: Transport module
+  definition: Type of transport. E.g. by land (truck, rail, pipe), by water (boat, ferry), by air (airplane).
+    This module's first version focuses on road and sea transport type.
+- term: Certificate of compliance
+  section: CRCF
+  definition: A certificate issued by an accredited VVB upon successful project verification audits, confirming
+    the project's compliance with Regulation (EU) 2024/3012 and conforming to the requirements set out
+    in that Regulation.
+- term: Terminated certificate
+  section: CRCF
+  definition: A certificate of compliance that has been voluntarily cancelled while it is still valid.
+- term: Withdrawn certificate
+  section: CRCF
+  definition: A certificate of compliance that has been permanently cancelled by the VVB or Rainbow.
+- term: Expired certificate
+  section: CRCF
+  definition: A certificate of compliance that is no longer valid.
+- term: Group auditing
+  section: CRCF
+  definition: An auditing process where the approach to auditing activities can be defined at group level
+- term: Certification period
+  section: CRCF
+  definition: A monitoring period, as defined under the Rainbow Standard General Glossary
+x-evidence:
+- url: https://docs.rainbowstandard.io/glossary.md
+  status: 200
+  bytes: 65851
+- url: https://docs.rainbowstandard.io/accronyms.md
+  status: 200
+  bytes: 1529
+  note: Published but empty — no acronyms listed.

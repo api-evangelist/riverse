@@ -1,0 +1,85 @@
+generated: '2026-08-17'
+method: probed
+source: live HTTPS probes of every Rainbow (formerly Riverse) host found in apis.yml + DNS
+note: >-
+  Probed the full /.well-known/ discovery surface on every Rainbow host that resolves
+  (rainbowstandard.io, docs.rainbowstandard.io, registry.rainbowstandard.io,
+  arc.rainbowstandard.io, app.rainbowstandard.io). EVERY path returned HTTP 404 with an
+  HTML shell body (Webflow on the apex, GitBook on docs, Next.js on arc/app/registry), so
+  there is NO served /.well-known/ document anywhere on the estate and NO WellKnown or
+  SecurityTxt pointer is emitted in apis.yml. This file records a verified absence, not a
+  presence. The only machine-readable discovery documents Rainbow does serve sit at
+  conventional (non-well-known) paths and are captured below.
+hosts:
+- host: rainbowstandard.io
+  server: Webflow
+  documents:
+  - {path: /.well-known/security.txt, status: 404}
+  - {path: /.well-known/openid-configuration, status: 404}
+  - {path: /.well-known/oauth-authorization-server, status: 404}
+  - {path: /.well-known/api-catalog, status: 404}
+  - {path: /.well-known/ai-plugin.json, status: 404}
+  - {path: /.well-known/agent-card.json, status: 404}
+  - {path: /.well-known/agent.json, status: 404}
+- host: docs.rainbowstandard.io
+  server: GitBook
+  documents:
+  - {path: /.well-known/security.txt, status: 404}
+  - {path: /.well-known/openid-configuration, status: 404}
+  - {path: /.well-known/oauth-authorization-server, status: 404}
+  - {path: /.well-known/api-catalog, status: 404}
+  - {path: /.well-known/ai-plugin.json, status: 404}
+  - {path: /.well-known/agent-card.json, status: 404}
+  - {path: /.well-known/agent.json, status: 404}
+- host: registry.rainbowstandard.io
+  server: Next.js (Vercel)
+  documents:
+  - {path: /.well-known/security.txt, status: 404}
+  - {path: /.well-known/agent-card.json, status: 404}
+  - {path: /robots.txt, status: 404}
+  - {path: /sitemap.xml, status: 404}
+- host: arc.rainbowstandard.io
+  server: Next.js (Vercel)
+  documents:
+  - {path: /.well-known/security.txt, status: 404}
+  - {path: /.well-known/openid-configuration, status: 404}
+  - {path: /.well-known/oauth-authorization-server, status: 404}
+  - {path: /.well-known/api-catalog, status: 404}
+  - {path: /.well-known/ai-plugin.json, status: 404}
+  - {path: /.well-known/agent-card.json, status: 404}
+  - {path: /.well-known/agent.json, status: 404}
+- host: app.rainbowstandard.io
+  server: Next.js (Vercel) — 302s to arc.rainbowstandard.io
+  documents:
+  - {path: /.well-known/security.txt, status: 404}
+  - {path: /.well-known/agent-card.json, status: 404}
+  - {path: /.well-known/agent.json, status: 404}
+other_documents:
+- path: https://docs.rainbowstandard.io/llms.txt
+  status: 200
+  content_type: text/markdown
+  file: ../llms/riverse-llms.txt
+  note: >-
+    Real 25.8KB llms.txt served by the GitBook docs host — a complete index of all 163
+    documentation pages plus GitBook "Agent Instructions" describing a ?ask= query
+    parameter. Saved verbatim; wired as type LLMsTxt.
+- path: https://docs.rainbowstandard.io/robots.txt
+  status: 200
+  content_type: text/plain
+  file: riverse-docs-robots.txt
+  note: >-
+    Carries a Cloudflare Content Signals declaration — "Content-Signal: ai-train=yes,
+    search=yes, ai-input=yes" — an explicit, provider-served AI-usage consent policy.
+    This is the basis for the ContentSignal pointer in apis.yml.
+- path: https://rainbowstandard.io/robots.txt
+  status: 200
+  content_type: text/plain
+  note: 'Marketing-site robots.txt only: "User-agent: * / Disallow: /global-content/*". No content signals.'
+- path: https://rainbowstandard.io/sitemap.xml
+  status: 200
+  content_type: text/xml
+  note: 38 URLs — news posts, methodology pages, team pages, and the commercial pages.
+- path: https://docs.rainbowstandard.io/sitemap.xml
+  status: 200
+  content_type: application/xml
+  note: Sitemap index pointing at sitemap-pages.xml (163 documentation page URLs).

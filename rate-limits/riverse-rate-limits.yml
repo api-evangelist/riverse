@@ -1,0 +1,19 @@
+generated: '2026-08-17'
+method: searched
+source: https://docs.rainbowstandard.io/llms.txt
+limit_count: 0
+note: >-
+  An honest zero. Rainbow (formerly Riverse) publishes no API, so there are no rate limits to
+  record and no runtime rate-limit headers to observe. Every one of the 163 documentation pages
+  indexed in the docs llms.txt was checked for an API/developer/integration section and none
+  exists; the only acknowledgement anywhere on the public surface that an API connection is
+  even possible is one line on the Fees page ("Rainbow does not charge additional costs for
+  retirement, transfers or API connections"). Because limit_count is 0 and nothing is
+  published, NO RateLimits pointer is emitted in apis.yml — recording an artifact that
+  documents an absence must not be scored as a presence.
+limits: []
+response_headers: []
+exhaustion_status: null
+x-evidence:
+- {url: 'https://docs.rainbowstandard.io/llms.txt', status: 200}
+- {url: 'https://docs.rainbowstandard.io/other/terms-and-contracts/rainbow-standard-and-registry-fees.md', status: 200}

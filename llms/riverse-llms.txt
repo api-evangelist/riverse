@@ -1,0 +1,183 @@
+# Rainbow Documentation
+
+## Rainbow Documentation
+
+- [Rainbow Documentation Home](https://docs.rainbowstandard.io/readme.md)
+- [Rainbow Standard Rules](https://docs.rainbowstandard.io/rainbow-standard-documents/rainbow-standard-rules.md)
+- [Overview of Rainbow](https://docs.rainbowstandard.io/rainbow-standard-documents/rainbow-standard-rules/organization-of-rainbow.md)
+- [Project certification](https://docs.rainbowstandard.io/rainbow-standard-documents/rainbow-standard-rules/project-certification.md)
+- [Project and baseline scope](https://docs.rainbowstandard.io/rainbow-standard-documents/rainbow-standard-rules/project-and-baseline-scope.md)
+- [Principles & requirements](https://docs.rainbowstandard.io/rainbow-standard-documents/rainbow-standard-rules/principles-and-requirements.md)
+- [GHG quantification](https://docs.rainbowstandard.io/rainbow-standard-documents/rainbow-standard-rules/ghg-quantification.md)
+- [Version history](https://docs.rainbowstandard.io/rainbow-standard-documents/rainbow-standard-rules/version-history.md): Version history and changes to the Rainbow Standard Rules
+- [Rainbow Procedures Manual](https://docs.rainbowstandard.io/rainbow-standard-documents/procedures-manual.md)
+- [Governance and oversight](https://docs.rainbowstandard.io/rainbow-standard-documents/procedures-manual/governance-and-oversight.md)
+- [Standard and methodologies](https://docs.rainbowstandard.io/rainbow-standard-documents/procedures-manual/standard-and-methodologies.md)
+- [Project certification](https://docs.rainbowstandard.io/rainbow-standard-documents/procedures-manual/project-certification-procedure.md)
+- [Registry requirements](https://docs.rainbowstandard.io/rainbow-standard-documents/procedures-manual/registry-requirements.md)
+- [Rainbow Carbon Credits](https://docs.rainbowstandard.io/rainbow-standard-documents/procedures-manual/rainbow-carbon-credits.md)
+- [VVB Requirements](https://docs.rainbowstandard.io/rainbow-standard-documents/procedures-manual/vvb-requirements.md)
+- [CORSIA and Article 6](https://docs.rainbowstandard.io/rainbow-standard-documents/procedures-manual/corsia-and-article-6.md)
+- [CRCF Requirements](https://docs.rainbowstandard.io/rainbow-standard-documents/procedures-manual/crcf-requirements.md)
+- [Appendix](https://docs.rainbowstandard.io/rainbow-standard-documents/procedures-manual/appendix.md)
+- [Version history](https://docs.rainbowstandard.io/rainbow-standard-documents/procedures-manual/version-history.md): Version history and changes to the Rainbow Procedures Manual
+- [Methodologies](https://docs.rainbowstandard.io/rainbow-standard-documents/methodologies.md)
+- [Procedural templates](https://docs.rainbowstandard.io/rainbow-standard-documents/procedural-templates.md): This section includes all procedural templates used in the Rainbow process.
+- [Project Design Document template](https://docs.rainbowstandard.io/rainbow-standard-documents/procedural-templates/project-design-document-template.md): This document summarizes all key elements of a project, allowing Rainbow and the general public to have a complete understanding of its actions and expected results.
+- [Additionality evaluation template](https://docs.rainbowstandard.io/rainbow-standard-documents/procedural-templates/additionality-evaluation-template.md): The purpose of this document is to provide extra information on how to evaluate additionality of projects, according to the Rainbow Standard.
+- [Site registration template](https://docs.rainbowstandard.io/rainbow-standard-documents/procedural-templates/site-registration-template.md)
+- [Stakeholder consultation letter](https://docs.rainbowstandard.io/rainbow-standard-documents/procedural-templates/stakeholder-consultation-letter.md)
+- [Environmental and social risk assessment templates](https://docs.rainbowstandard.io/rainbow-standard-documents/procedural-templates/environmental-and-social-risk-assessment-templates.md)
+- [Monitoring report template](https://docs.rainbowstandard.io/rainbow-standard-documents/procedural-templates/annual-monitoring-template.md)
+- [Methodology creation proposal template](https://docs.rainbowstandard.io/rainbow-standard-documents/procedural-templates/methodology-creation-proposal-template.md): Any stakeholder may submit a request for a new methodology at any time. The requests are summarized and grouped into sectors by the Secretariat, in the creation of a Methodology Creation Proposal.
+- [Letter of Authorization for CORSIA](https://docs.rainbowstandard.io/rainbow-standard-documents/procedural-templates/letter-of-authorization-for-corsia.md)
+- [Letter of Authorization Article 6](https://docs.rainbowstandard.io/rainbow-standard-documents/procedural-templates/letter-of-authorization-article-6.md)
+- [Letter of delegation for registration partner](https://docs.rainbowstandard.io/rainbow-standard-documents/procedural-templates/letter-of-delegation-for-registration-partner.md): This letter template shall be used by Project Developers willing to use the services of a third party firm to conduct part or all of the validation and/or verification process.
+- [Public consultations](https://docs.rainbowstandard.io/rainbow-standard-documents/public-consultations.md): Explore the results of our public consultations, including feedback summaries and responses that drive improvements in our standards and methodologies.
+- [Industrial biochar](https://docs.rainbowstandard.io/methodologies/industrial-biochar.md)
+- [Eligibility and scope](https://docs.rainbowstandard.io/methodologies/industrial-biochar/eligibility-and-scope.md)
+- [Principles & requirements](https://docs.rainbowstandard.io/methodologies/industrial-biochar/principles-and-requirements.md)
+- [GHG quantification](https://docs.rainbowstandard.io/methodologies/industrial-biochar/ghg-quantification.md)
+- [Sampling and measurements](https://docs.rainbowstandard.io/methodologies/industrial-biochar/sampling-and-measurements.md)
+- [CRCF requirements](https://docs.rainbowstandard.io/methodologies/industrial-biochar/crcf-requirements.md)
+- [Version history](https://docs.rainbowstandard.io/methodologies/industrial-biochar/version-history.md)
+- [Appendix](https://docs.rainbowstandard.io/methodologies/industrial-biochar/appendix.md)
+- [Biomass carbon removal and storage (BiCRS)](https://docs.rainbowstandard.io/methodologies/biomass-carbon-removal-and-storage-bicrs.md)
+- [Carbon capture modules](https://docs.rainbowstandard.io/methodologies/biomass-carbon-removal-and-storage-bicrs/carbon-capture.md): Module category
+- [Biomass feedstock](https://docs.rainbowstandard.io/methodologies/biomass-carbon-removal-and-storage-bicrs/carbon-capture/biomass-feedstock.md)
+- [Carbon storage modules](https://docs.rainbowstandard.io/methodologies/biomass-carbon-removal-and-storage-bicrs/carbon-storage.md)
+- [Biochar application to soils](https://docs.rainbowstandard.io/methodologies/biomass-carbon-removal-and-storage-bicrs/carbon-storage/biochar-application-to-soils.md)
+- [Marine sub-sediment burial](https://docs.rainbowstandard.io/methodologies/biomass-carbon-removal-and-storage-bicrs/carbon-storage/marine-sub-sediment-burial.md)
+- [Bio-oil in asphalt](https://docs.rainbowstandard.io/methodologies/biomass-carbon-removal-and-storage-bicrs/carbon-storage/bio-oil-in-asphalt.md)
+- [Biogenic carbon capture and storage (BioCCS)](https://docs.rainbowstandard.io/methodologies/biogenic-carbon-capture-and-storage-bioccs.md)
+- [Eligibility and scope](https://docs.rainbowstandard.io/methodologies/biogenic-carbon-capture-and-storage-bioccs/eligibility-and-scope.md)
+- [Principles & requirements](https://docs.rainbowstandard.io/methodologies/biogenic-carbon-capture-and-storage-bioccs/principles-and-requirements.md)
+- [GHG quantification](https://docs.rainbowstandard.io/methodologies/biogenic-carbon-capture-and-storage-bioccs/ghg-quantification.md)
+- [Sampling and measurements](https://docs.rainbowstandard.io/methodologies/biogenic-carbon-capture-and-storage-bioccs/sampling-and-measurements.md)
+- [Risk assessment template](https://docs.rainbowstandard.io/methodologies/biogenic-carbon-capture-and-storage-bioccs/risk-assessment-template.md)
+- [CRCF requirements](https://docs.rainbowstandard.io/methodologies/biogenic-carbon-capture-and-storage-bioccs/crcf-requirements.md)
+- [Appendix](https://docs.rainbowstandard.io/methodologies/biogenic-carbon-capture-and-storage-bioccs/appendix.md)
+- [Version history](https://docs.rainbowstandard.io/methodologies/biogenic-carbon-capture-and-storage-bioccs/version-history.md)
+- [Distributed open-kiln biochar](https://docs.rainbowstandard.io/methodologies/distributed-open-kiln-biochar.md)
+- [Eligibility and scope](https://docs.rainbowstandard.io/methodologies/distributed-open-kiln-biochar/eligibility-and-scope.md)
+- [Principles & requirements](https://docs.rainbowstandard.io/methodologies/distributed-open-kiln-biochar/principles-and-requirements.md)
+- [GHG quantification](https://docs.rainbowstandard.io/methodologies/distributed-open-kiln-biochar/ghg-quantification.md)
+- [Sampling and measurements](https://docs.rainbowstandard.io/methodologies/distributed-open-kiln-biochar/sampling-and-measurements.md)
+- [Version history](https://docs.rainbowstandard.io/methodologies/distributed-open-kiln-biochar/version-history.md)
+- [Appendix](https://docs.rainbowstandard.io/methodologies/distributed-open-kiln-biochar/appendix.md)
+- [Risk assessment template](https://docs.rainbowstandard.io/methodologies/distributed-open-kiln-biochar/risk-evaluation-template.md)
+- [Distributed closed-kiln biochar](https://docs.rainbowstandard.io/methodologies/distributed-closed-kiln-biochar.md)
+- [Eligibility and scope](https://docs.rainbowstandard.io/methodologies/distributed-closed-kiln-biochar/eligibility-and-scope.md)
+- [Principles & requirements](https://docs.rainbowstandard.io/methodologies/distributed-closed-kiln-biochar/principles-and-requirements.md)
+- [GHG quantification](https://docs.rainbowstandard.io/methodologies/distributed-closed-kiln-biochar/ghg-quantification.md)
+- [Sampling and measurements](https://docs.rainbowstandard.io/methodologies/distributed-closed-kiln-biochar/sampling-and-measurements.md)
+- [Version history](https://docs.rainbowstandard.io/methodologies/distributed-closed-kiln-biochar/version-history.md)
+- [Appendix](https://docs.rainbowstandard.io/methodologies/distributed-closed-kiln-biochar/appendix.md)
+- [Risk assessment template](https://docs.rainbowstandard.io/methodologies/distributed-closed-kiln-biochar/risk-assessment-template.md)
+- [Mineralization of alkaline materials (ex situ)](https://docs.rainbowstandard.io/methodologies/mineralization-of-alkaline-materials-ex-situ.md)
+- [Eligibility and scope](https://docs.rainbowstandard.io/methodologies/mineralization-of-alkaline-materials-ex-situ/eligibility-and-scope.md)
+- [Principles & requirements](https://docs.rainbowstandard.io/methodologies/mineralization-of-alkaline-materials-ex-situ/principles-and-requirements.md)
+- [GHG quantification](https://docs.rainbowstandard.io/methodologies/mineralization-of-alkaline-materials-ex-situ/ghg-quantification.md)
+- [Sampling and measurements](https://docs.rainbowstandard.io/methodologies/mineralization-of-alkaline-materials-ex-situ/monitoring-and-sampling.md)
+- [Risk assessment template](https://docs.rainbowstandard.io/methodologies/mineralization-of-alkaline-materials-ex-situ/risk-assessment-template.md)
+- [Appendix](https://docs.rainbowstandard.io/methodologies/mineralization-of-alkaline-materials-ex-situ/appendix.md)
+- [Version history](https://docs.rainbowstandard.io/methodologies/mineralization-of-alkaline-materials-ex-situ/version-history.md)
+- [Biogas from anaerobic digestion](https://docs.rainbowstandard.io/methodologies/biogas-from-anaerobic-digestion.md)
+- [Introduction](https://docs.rainbowstandard.io/methodologies/biogas-from-anaerobic-digestion/introduction.md)
+- [Eligible technologies](https://docs.rainbowstandard.io/methodologies/biogas-from-anaerobic-digestion/eligible-technologies.md)
+- [Eligibility criteria](https://docs.rainbowstandard.io/methodologies/biogas-from-anaerobic-digestion/eligibility-criteria.md)
+- [GHG quantification](https://docs.rainbowstandard.io/methodologies/biogas-from-anaerobic-digestion/ghg-reduction-quantification.md)
+- [Monitoring plan](https://docs.rainbowstandard.io/methodologies/biogas-from-anaerobic-digestion/monitoring-plan.md)
+- [Circularity Assessment](https://docs.rainbowstandard.io/methodologies/biogas-from-anaerobic-digestion/circularity-assessment.md)
+- [Version history](https://docs.rainbowstandard.io/methodologies/biogas-from-anaerobic-digestion/version-history.md)
+- [Appendix](https://docs.rainbowstandard.io/methodologies/biogas-from-anaerobic-digestion/appendix.md)
+- [Risk assessment template](https://docs.rainbowstandard.io/methodologies/biogas-from-anaerobic-digestion/option-1-biogas-risk-evaluation-template-embed.md)
+- [Refurbishing of electronic devices](https://docs.rainbowstandard.io/methodologies/refurbishing-of-electronic-devices.md)
+- [Introduction](https://docs.rainbowstandard.io/methodologies/refurbishing-of-electronic-devices/introduction.md)
+- [Eligibility and scope](https://docs.rainbowstandard.io/methodologies/refurbishing-of-electronic-devices/eligible-technologies.md)
+- [Principles & requirements](https://docs.rainbowstandard.io/methodologies/refurbishing-of-electronic-devices/principles-and-requirements.md)
+- [GHG quantification](https://docs.rainbowstandard.io/methodologies/refurbishing-of-electronic-devices/ghg-reduction-quantification.md)
+- [Circularity Assessment](https://docs.rainbowstandard.io/methodologies/refurbishing-of-electronic-devices/circularity-assessment.md)
+- [Version history](https://docs.rainbowstandard.io/methodologies/refurbishing-of-electronic-devices/version-history.md)
+- [Appendix](https://docs.rainbowstandard.io/methodologies/refurbishing-of-electronic-devices/appendix.md)
+- [Risk assessment template](https://docs.rainbowstandard.io/methodologies/refurbishing-of-electronic-devices/risk-evaluation-template.md)
+- [Biobased construction materials](https://docs.rainbowstandard.io/methodologies/biobased-construction-materials.md)
+- [Introduction](https://docs.rainbowstandard.io/methodologies/biobased-construction-materials/introduction.md)
+- [Eligible technologies](https://docs.rainbowstandard.io/methodologies/biobased-construction-materials/eligible-technologies.md)
+- [Eligibility criteria](https://docs.rainbowstandard.io/methodologies/biobased-construction-materials/eligibility-criteria.md)
+- [GHG quantification](https://docs.rainbowstandard.io/methodologies/biobased-construction-materials/ghg-reduction-quantification.md)
+- [Monitoring plan](https://docs.rainbowstandard.io/methodologies/biobased-construction-materials/monitoring-plan.md)
+- [Version history](https://docs.rainbowstandard.io/methodologies/biobased-construction-materials/version-history.md)
+- [Risk assessment template](https://docs.rainbowstandard.io/methodologies/biobased-construction-materials/risk-evaluation-template.md)
+- [Auditing requirements](https://docs.rainbowstandard.io/methodologies/biobased-construction-materials/auditing-requirements.md): List of document and information requested for validation
+- [Battery second life](https://docs.rainbowstandard.io/methodologies/battery-second-life.md)
+- [Introduction](https://docs.rainbowstandard.io/methodologies/battery-second-life/introduction.md)
+- [Eligible technologies](https://docs.rainbowstandard.io/methodologies/battery-second-life/eligible-technologies.md)
+- [Eligibility criteria](https://docs.rainbowstandard.io/methodologies/battery-second-life/eligibility-criteria.md)
+- [GHG quantification](https://docs.rainbowstandard.io/methodologies/battery-second-life/ghg-quantification.md)
+- [Monitoring Plan](https://docs.rainbowstandard.io/methodologies/battery-second-life/monitoring-plan.md)
+- [Circularity assessment](https://docs.rainbowstandard.io/methodologies/battery-second-life/circularity-assessment.md)
+- [Version history](https://docs.rainbowstandard.io/methodologies/battery-second-life/version-history.md)
+- [Appendix](https://docs.rainbowstandard.io/methodologies/battery-second-life/appendix.md)
+- [Risk assessment template](https://docs.rainbowstandard.io/methodologies/battery-second-life/risk-evaluation-template.md)
+- [Enhanced rock weathering](https://docs.rainbowstandard.io/methodologies/enhanced-rock-weathering.md)
+- [Eligible technologies](https://docs.rainbowstandard.io/methodologies/enhanced-rock-weathering/eligible-technologies.md)
+- [Crediting timeline and process](https://docs.rainbowstandard.io/methodologies/enhanced-rock-weathering/crediting-timeline-and-process.md)
+- [Feedstock characterization](https://docs.rainbowstandard.io/methodologies/enhanced-rock-weathering/feedstock-characterization.md)
+- [Site characterization](https://docs.rainbowstandard.io/methodologies/enhanced-rock-weathering/site-characterization.md)
+- [Eligibility criteria](https://docs.rainbowstandard.io/methodologies/enhanced-rock-weathering/eligibility-criteria.md)
+- [GHG quantification](https://docs.rainbowstandard.io/methodologies/enhanced-rock-weathering/ghg-quantification.md)
+- [Sampling and measurements](https://docs.rainbowstandard.io/methodologies/enhanced-rock-weathering/sampling-and-measurements.md)
+- [Monitoring plan](https://docs.rainbowstandard.io/methodologies/enhanced-rock-weathering/monitoring-plan.md)
+- [Appendix](https://docs.rainbowstandard.io/methodologies/enhanced-rock-weathering/appendix.md)
+- [Version history](https://docs.rainbowstandard.io/methodologies/enhanced-rock-weathering/version-history.md)
+- [Risk assessment template](https://docs.rainbowstandard.io/methodologies/enhanced-rock-weathering/risk-evaluation-template.md)
+- [Processing and energy use](https://docs.rainbowstandard.io/modules/processing-and-energy-use.md)
+- [Infrastructure and machinery](https://docs.rainbowstandard.io/modules/infrastructure-and-machinery.md)
+- [Energy co-products](https://docs.rainbowstandard.io/modules/energy-co-products.md)
+- [Transportation](https://docs.rainbowstandard.io/modules/transportation.md)
+- [Glossary](https://docs.rainbowstandard.io/glossary.md)
+- [Accronyms](https://docs.rainbowstandard.io/accronyms.md)
+- [Archived documents](https://docs.rainbowstandard.io/other/archived-methodologies.md)
+- [Archived BiCRS methodology](https://docs.rainbowstandard.io/other/archived-methodologies/archived-beccs-and-biochar-methodology.md): This page contains archived versions of the BiCRS methodology and its modules for continuity, transparency, and traceability.
+- [Archived Biobased construction methodology](https://docs.rainbowstandard.io/other/archived-methodologies/archived-biobased-construction-methodology.md): This page contains the archived versions of the Biobased construction materials methodology for continuity, transparency, and traceability.
+- [Archived Mineralization of alkaline materials (ex situ) methodology](https://docs.rainbowstandard.io/other/archived-methodologies/archived-mineralization-of-alkaline-materials-ex-situ-methodology.md): This page contains archived versions of the Mineralization of alkaline materials (ex situ) methodology for continuity, transparency, and traceability.
+- [Archived Biogas from anaerobic digestion methodology](https://docs.rainbowstandard.io/other/archived-methodologies/archived-biogas-from-anaerobic-digestion.md): This page contains the archived versions of the Biogas from anerobic digestion methodology for continuity, transparency, and traceability.
+- [Archived Refurbishing of electronic devices methodology](https://docs.rainbowstandard.io/other/archived-methodologies/archived-refurbishing-of-electronic-devices.md): This page contains the archived versions of the Refurbishing of electronic devices methodology for continuity, transparency, and traceability.
+- [Archived Rainbow Standard Documents](https://docs.rainbowstandard.io/other/archived-methodologies/archived-rainbow-standard-documents.md): This page contains the archived versions of Rainbow Standard Documents for continuity, transparency, and traceability.
+- [Governance & Integrity](https://docs.rainbowstandard.io/other/governance-and-integrity.md)
+- [Rainbow Bylaws](https://docs.rainbowstandard.io/other/governance-and-integrity/rainbow-bylaws.md)
+- [Appointments Policy](https://docs.rainbowstandard.io/other/governance-and-integrity/appointments-policy.md): The purpose of this document is to set out Rainbow’s policy for appointing individuals to its governance and operational bodies.
+- [Governance Framework](https://docs.rainbowstandard.io/other/governance-and-integrity/governance-framework.md): The purpose of this document is to define Rainbow’s governance framework, including its legal structure, mission, and the roles of key bodies such as the Governing Board, SAB, and Expert Community.
+- [Terms of Reference: Governing Board](https://docs.rainbowstandard.io/other/governance-and-integrity/terms-of-reference-governing-board.md): The purpose of this document is to set out the Terms of Reference for Rainbow’s Governing Board, which serves as the organization’s board with fiduciary oversight.
+- [Terms of Reference: Standard Advisory Board](https://docs.rainbowstandard.io/other/governance-and-integrity/terms-of-reference-standard-advisory-board.md): The purpose of this document is to detail the role and functioning of the Standard Advisory Board (SAB), the independent governing body overseeing the Rainbow Standard.
+- [Terms of Reference: Expert Community](https://docs.rainbowstandard.io/other/governance-and-integrity/terms-of-reference-expert-community.md): This document details the role and functioning of the Expert Community, an independent entity composed of experts specialized in the types of sectors covered by Rainbow.
+- [Conflict of Interest Policy](https://docs.rainbowstandard.io/other/governance-and-integrity/conflict-of-interest-policy.md): Rainbow Standard and Rainbow Ecosystem members are subject to the COI, to ensure all members respect Rainbow’s independence.
+- [Complaints and Appeals Policy](https://docs.rainbowstandard.io/other/governance-and-integrity/complaints-and-appeals-policy.md): The Complaints and Appeals Policy ensures fair and transparent procedures for addressing grievances and contesting decisions related to carbon credit certification, fostering trust and accountability.
+- [KYC Policy](https://docs.rainbowstandard.io/other/governance-and-integrity/kyc-policy.md): The KYC policy ensures rigorous identity verification of all participants in carbon credit transactions, maintaining legal compliance and safeguarding against fraud and financial risks.\`
+- [Anti-Bribery and Corruption Policy](https://docs.rainbowstandard.io/other/governance-and-integrity/anti-bribery-and-corruption-policy.md): Rainbow is committed to ethical business practices and compliance with anti-corruption laws. This Policy prohibits bribery and improper payments, outlining employee responsibilities for adherence.
+- [Anti-Money Laundering (AML) Policy](https://docs.rainbowstandard.io/other/governance-and-integrity/anti-money-laundering-aml-policy.md): Rainbow’s Anti-Money Laundering (AML) Policy describes the controls, procedures, and responsibilities in place to prevent the misuse of the platform for illicit financial activities.
+- [Corporate Social & Environmental Responsibility (CSR) Policy](https://docs.rainbowstandard.io/other/governance-and-integrity/corporate-social-and-environmental-responsibility-csr-policy.md): The CSR Policy details the company’s commitments to climate integrity, fair value sharing, diversity and inclusion, employee well-being, ethical business practices, and good governance.
+- [User Terms & Guidelines](https://docs.rainbowstandard.io/other/terms-and-contracts.md)
+- [Fees](https://docs.rainbowstandard.io/other/terms-and-contracts/rainbow-standard-and-registry-fees.md): Overview of certification and credit issuance fees associated with the Rainbow Standard and Tech Infrastructure.
+- [General Terms of Arc Platform (Certification Platform)](https://docs.rainbowstandard.io/other/terms-and-contracts/terms-and-conditions-for-project-developers-mrv-+-registry.md): Terms of Arc, Rainbow's Certification Platform
+- [Terms of Use of the Rainbow Registry](https://docs.rainbowstandard.io/other/terms-and-contracts/terms-and-conditions-for-registry-users.md): Terms of Use of Rainbow Registry
+- [Privacy policy](https://docs.rainbowstandard.io/other/terms-and-contracts/privacy-policy.md): Privacy Policy of the Rainbow Certification platform and the Rainbow Registry
+- [Cookie Policy](https://docs.rainbowstandard.io/other/terms-and-contracts/cookie-policy.md): The cookie policy for the Rainbow Platform.
+- [Administrative Oversight Record](https://docs.rainbowstandard.io/other/administrative-oversight.md)
+
+
+---
+
+# Agent Instructions
+This documentation is published with GitBook. GitBook is the documentation platform designed so that both humans and AI agents can read, navigate, and reason over technical content effectively. Learn more at gitbook.com.
+
+## Querying This Documentation
+If you need additional information, you can query the documentation dynamically by asking a question.
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+```
+GET https://docs.rainbowstandard.io/readme.md?ask=<question>
+```
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

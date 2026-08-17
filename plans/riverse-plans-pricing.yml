@@ -1,0 +1,89 @@
+generated: '2026-08-17'
+method: searched
+source: https://docs.rainbowstandard.io/other/terms-and-contracts/rainbow-standard-and-registry-fees
+currency: EUR
+model: subscription + per-credit issuance fee
+note: >-
+  Rainbow (formerly Riverse) publishes its complete fee schedule for carbon credit
+  certification openly in its GitBook documentation. There are no software/API plans —
+  pricing is a platform subscription paid by the Project Developer plus a per-credit
+  issuance fee that steps down by cumulative annual volume. Captured verbatim from the
+  published Fees page. Notably the same page states "Rainbow does not charge additional
+  costs for retirement, transfers or API connections", which is the only place on
+  Rainbow's public surface that acknowledges an API connection exists — it is not
+  documented anywhere publicly (see x-coverage in apis.yml).
+plan_count: 4
+plans:
+- name: Pre-validation (optional)
+  audience: Project Developer
+  applies_to: Removal — Category A methodologies
+  price: 5000
+  currency: EUR
+  period: year
+  unit: per project per year
+  note: Not available for Avoidance — Category B.
+- name: Platform subscription — Removal (Category A)
+  audience: Project Developer
+  applies_to: BiCRS, Mineralization of alkaline materials (ex-situ), Enhanced Rock Weathering, Distributed open/closed-kiln biochar
+  price: 5000
+  currency: EUR
+  period: year
+  included: 1 carbon project with 1 site
+  overage: 500–2500 EUR per additional site within a project, depending on the number of sites
+  includes: [validation audit (remote site audit)]
+  note: >-
+    On-site visit audits are paid directly to the third-party VVB, typically 1,000–5,000
+    EUR depending on location. Verification billed separately (see verification_fees).
+- name: Platform subscription — Avoidance (Category B)
+  audience: Project Developer
+  applies_to: Biobased construction materials, Biogas from anaerobic digestion, Refurbishing of electronic devices, Battery second life
+  price: 7500
+  currency: EUR
+  period: year
+  included: 1 carbon project with 1 site
+  overage: 2500 EUR per additional site within a project
+  includes: [validation audit (remote site audit)]
+  verification: 2500 EUR per year per verification per site
+- name: Credit issuance fee (Rainbow Carbon Credit / RCC)
+  audience: Project Developer
+  price_model: per-credit tiered by cumulative volume transferred over trailing 12 months
+  currency: EUR
+  note: Applied separately for each credit type a project issues.
+verification_fees:
+  scope: Removal methodologies with frequent issuance
+  currency: EUR
+  tiers:
+  - {methodology: BiCRS, first_within_12_months: 2500, second_within_12_months: 2500, third_or_more: 1500}
+  - {methodology: Biobased Construction Materials, first_within_12_months: 2500, second_within_12_months: 2500, third_or_more: 1500}
+  - {methodology: Enhanced Rock Weathering, first_within_12_months: 10000, second_within_12_months: 5000, third_or_more: 5000}
+  - {methodology: Mineralization of alkaline materials, first_within_12_months: 5000, second_within_12_months: 2500, third_or_more: 1500}
+  - {methodology: Distributed open/closed kiln, first_within_12_months: 2500, second_within_12_months: 2500, third_or_more: 2500}
+issuance_fees:
+  avoidance:
+    category_1: [Biogas from anaerobic digestion, Biobased Construction Material]
+    category_2: [Refurbishing of electronic devices, Battery Second Life, Mineralization of alkaline materials (ex-situ), Biomass carbon removal and storage, General Requirements (Standard V6.2 and below only)]
+    tiers:
+    - {volume: 1–50000, category_1_eur_per_credit: 2, category_2_eur_per_credit: 3}
+    - {volume: 50001–100000, category_1_eur_per_credit: 1.75, category_2_eur_per_credit: 2.5}
+    - {volume: 100001+, category_1_eur_per_credit: 1.5, category_2_eur_per_credit: 2}
+  removal:
+    category_1: [Mineralization of alkaline materials (ex-situ), Enhanced Rock Weathering, BiCRS / Sub-sediment burial]
+    category_2: [BiCRS / Biochar Application to soil]
+    category_3: [Distributed open/closed-kiln biochar, Biobased construction materials]
+    tiers:
+    - {volume: 1–20000, category_1_eur_per_credit: 10, category_2_eur_per_credit: 7.5, category_3_eur_per_credit: 5}
+    - {volume: 20001–50000, category_1_eur_per_credit: 8, category_2_eur_per_credit: 5, category_3_eur_per_credit: 4}
+    - {volume: 50001–100000, category_1_eur_per_credit: 7, category_2_eur_per_credit: 4, category_3_eur_per_credit: 3}
+    - {volume: 100001–200000, category_1_eur_per_credit: 6, category_2_eur_per_credit: 3, category_3_eur_per_credit: 2}
+    - {volume: 200001+, category_1_eur_per_credit: 4, category_2_eur_per_credit: 2, category_3_eur_per_credit: 2}
+no_charge_for:
+- Opening, closing, or reactivating accounts
+- Credit retirement
+- Credit transfers
+- API connections
+x-evidence:
+- url: https://docs.rainbowstandard.io/other/terms-and-contracts/rainbow-standard-and-registry-fees
+  status: 200
+- url: https://docs.rainbowstandard.io/other/terms-and-contracts/rainbow-standard-and-registry-fees.md
+  status: 200
+  note: Markdown twin served by GitBook — the source this artifact was read from.

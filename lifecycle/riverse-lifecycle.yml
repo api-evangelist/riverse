@@ -1,0 +1,54 @@
+generated: '2026-08-17'
+method: searched
+source: https://docs.rainbowstandard.io/rainbow-standard-documents/procedures-manual/standard-and-methodologies
+scope: standard-and-methodology-lifecycle
+note: >-
+  Rainbow (formerly Riverse) publishes no API, so there is no API version/deprecation
+  policy to capture. It does publish a genuinely rigorous lifecycle policy for the
+  artifacts its market depends on — the Standard Rules, the Procedures Manual, and each
+  methodology — including a written discontinuation procedure with an explicit transition
+  window for already-validated projects. That is the deprecation contract captured here,
+  and the Deprecation pointer in apis.yml points at it. There is NO status page anywhere on
+  the estate (status.rainbowstandard.io does not resolve), so NO StatusPage pointer is
+  emitted, and no SLA or uptime target is published.
+versioning:
+  scheme: major.minor integer suffix on the document name
+  current:
+    standard_rules: V7.2
+    procedures_manual: V3.2
+  docs: https://docs.rainbowstandard.io/rainbow-standard-documents/procedures-manual/standard-and-methodologies
+  revision_cadence: >-
+    Methodologies are evaluated against the discontinuation criteria at least once every
+    three years during the mandatory major revision process, and may be reviewed at any time.
+  public_consultation_required: true
+  governing_body: Standard Advisory Board (SAB)
+deprecation:
+  policy_url: https://docs.rainbowstandard.io/rainbow-standard-documents/procedures-manual/standard-and-methodologies
+  archive_url: https://docs.rainbowstandard.io/other/archived-methodologies
+  sunset_header: false
+  policy: >-
+    A methodology may be discontinued where it consistently overestimates credits and cannot
+    be revised to ensure conservativeness. Projects already validated under a discontinued
+    methodology may continue using it until their next verification; after that they must
+    transition to a new methodology or become ineligible for new RCCs. Previously issued RCCs
+    remain valid and tradable.
+  supersession: >-
+    Superseded versions of the Standard Rules, the Procedures Manual and every methodology are
+    archived at the Archived documents pages "for continuity, transparency, and traceability",
+    and every change is recorded in the corresponding Version history page.
+  project_compliance: https://docs.rainbowstandard.io/rainbow-standard-documents/procedures-manual/project-certification-procedure
+status_page: null
+sla: null
+support:
+  general: https://rainbowstandard.io/general-inquiries
+  climate_team: climate@rainbowstandard.io
+  platform_support: support@rainbowstandard.io
+deprecated_operations: []
+x-evidence:
+- url: https://docs.rainbowstandard.io/rainbow-standard-documents/procedures-manual/standard-and-methodologies.md
+  status: 200
+- url: https://docs.rainbowstandard.io/other/archived-methodologies
+  status: 200
+- url: https://status.rainbowstandard.io/
+  status: 0
+  note: NXDOMAIN — no status page exists.

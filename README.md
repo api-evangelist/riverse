@@ -42,6 +42,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Riverse is a company surfaced as a portfolio company of techstars and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+**Rainbow** (formerly **Riverse** — `riverse.io` now redirects to `rainbowstandard.io`) is a carbon
+crediting programme and registry. It certifies and issues Rainbow Carbon Credits (RCCs) from
+engineered carbon removal and GHG-reduction projects, is ICVCM Core-Carbon-Principles approved and
+ICROA endorsed, and operates two platforms: **Arc** (`arc.rainbowstandard.io`), the project-developer
+certification/MRV platform, and the public **Rainbow Registry** (`registry.rainbowstandard.io`).
+
+**No public API.** Rainbow serves no OpenAPI, AsyncAPI, GraphQL SDL, SDK, MCP server or A2A agent
+card on any of its hosts, and no `/.well-known/` document on any host. The only public
+acknowledgement that an API exists is one line in the published fee schedule ("Rainbow does not
+charge additional costs for retirement, transfers or API connections") — see `x-coverage` in
+`apis.yml`. What Rainbow does publish, and what this profile captures, is a strong documentation and
+governance surface: a real `llms.txt`, a Content-Signals AI-usage declaration, a fully published fee
+schedule, dated version histories for the Standard Rules and Procedures Manual, a written
+methodology discontinuation policy, a 207-term glossary, an incident/vulnerability reporting
+procedure, and an Administrative Oversight Record carrying twice-yearly Registry IT audit reports.
 
 Backed by: techstars — https://rainbowstandard.io/

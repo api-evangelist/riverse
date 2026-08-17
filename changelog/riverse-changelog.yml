@@ -1,0 +1,94 @@
+generated: '2026-08-17'
+method: searched
+source: https://docs.rainbowstandard.io/rainbow-standard-documents/rainbow-standard-rules/version-history
+scope: standard-documents
+note: >-
+  IMPORTANT — this is NOT an API changelog. Rainbow (formerly Riverse) publishes no API, so
+  there is no release note stream for software. What Rainbow does publish, and publish well,
+  is a dated, structured version history for its two normative documents (the Rainbow
+  Standard Rules and the Procedures Manual) plus every methodology, with superseded versions
+  archived. That is the change surface a consumer of this registry actually depends on, and
+  it is captured here. A second, editorial change stream (company + platform announcements)
+  runs at https://rainbowstandard.io/updates and is captured under editorial_entries.
+versioning:
+  scheme: major.minor integer on the document name (e.g. Rainbow Standard Rules V7.1 -> V7.2)
+  major_revisions: >-
+    Tracked by the first integer. Three phases — Feedback Collection, Draft Preparation,
+    Approval — including a mandatory public consultation and Standard Advisory Board review.
+  minor_revisions: >-
+    Tracked by the second integer. Made by the Rainbow Science Team when they do not result
+    in widespread material changes affecting project eligibility.
+  docs: https://docs.rainbowstandard.io/rainbow-standard-documents/procedures-manual/standard-and-methodologies
+  archive: https://docs.rainbowstandard.io/other/archived-methodologies/archived-rainbow-standard-documents
+current:
+  standard_rules: V7.2
+  procedures_manual: V3.2
+entries:
+- document: Rainbow Standard Rules
+  version: V7.2
+  date: '2026-05'
+  breaking: true
+  highlights:
+  - 'Additionality: added Common Practice analysis requirement; investment analysis must document assumptions and be internally consistent; financial indicators limited to IRR or NPV; barrier analysis redefined (technological barrier removed, information barrier added)'
+  - 'Crediting period duration: instructions added on how methodologies must set appropriate durations'
+  - 'Monitoring plan: must plan conservative treatment/deduction of credits for unexpected monitoring interruptions'
+  - 'Double counting: no double issuance within Rainbow Standard; VVB cross-checks across other platforms required; net-zero compatibility proof required against host-country objectives'
+  - 'Materiality: small-impact processes substituted by default emission deduction rather than excluded'
+  - 'No scheme hopping: now only applies to projects rejected within the last 3 years (5-year disclosure period retained)'
+- document: Rainbow Standard Rules
+  version: V7.1
+  date: '2026-03'
+  breaking: false
+  highlights:
+  - IRR calculation instructions moved from the additionality template into the Standard Rules
+  - '"Upcoming regulations" defined for the regulatory additionality test'
+  - Downward adjustment specified for baseline setting
+  - Co-benefit reporting must include host-country-required SDG indicators
+  - Standard-level requirement to assess, mitigate, deduct and monitor leakage
+- document: Rainbow Standard Rules
+  version: V7
+  date: '2025-11'
+  breaking: true
+  public_consultation: '2025-11'
+  linked_release: Procedures Manual V3.0
+  highlights:
+  - Eligibility criteria replaced with Principles and requirements; Minimum impact requirement removed
+  - All projects must prove compliance with local and national regulations
+  - Strengthened stakeholder consultation procedure with a required meeting and documentation
+  - New IPLC and FPIC requirements
+  - Risk assessment — any material risk identified must carry a mitigation plan
+  - New no-scheme-hopping disclosure requirement covering the prior 5 years
+- document: Procedures Manual
+  version: V3.2
+  date: '2026'
+  breaking: false
+  source: https://docs.rainbowstandard.io/rainbow-standard-documents/procedures-manual/version-history
+- document: Procedures Manual
+  version: V3.1
+  date: '2026-03'
+  breaking: false
+  linked_release: Standard Rules V7.1
+  highlights:
+  - Double counting requirements updated
+  - Creation of CORSIA and Article 6 eligibility procedures
+- document: Procedures Manual
+  version: V3.0
+  date: '2025-11'
+  breaking: true
+  public_consultation: '2025-11'
+  post_consultation: '2026-01'
+  linked_release: Standard Rules V7
+editorial_entries:
+  source: https://rainbowstandard.io/updates
+  recent:
+  - {date: '2026-07-21', title: Introducing the Rainbow Partner Program}
+  - {date: '2026-05-12', title: Frontier approves Rainbow as a credit issuer}
+  - {date: '2026-03-05', title: Rainbow officially approved by the ICVCM under its Core Carbon Principles}
+  - {date: '2025-10-01', title: Introducing Rainbow Arc, our fully integrated certification platform}
+x-evidence:
+- url: https://docs.rainbowstandard.io/rainbow-standard-documents/rainbow-standard-rules/version-history
+  status: 200
+- url: https://docs.rainbowstandard.io/rainbow-standard-documents/procedures-manual/version-history.md
+  status: 200
+- url: https://rainbowstandard.io/updates
+  status: 200
