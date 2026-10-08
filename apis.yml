@@ -72,6 +72,8 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: RateLimits
+  url: rate-limits/riverse-rate-limits.yml
 - type: DomainSecurity
   url: security/riverse-domain-security.yml
 - type: Website
