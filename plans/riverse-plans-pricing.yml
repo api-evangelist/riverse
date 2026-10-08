@@ -87,3 +87,39 @@ x-evidence:
 - url: https://docs.rainbowstandard.io/other/terms-and-contracts/rainbow-standard-and-registry-fees.md
   status: 200
   note: Markdown twin served by GitBook — the source this artifact was read from.
+x-canonical:
+  generated: '2026-10-08'
+  vocabulary: all/0-working/economics/plans-canonical.yml
+  models:
+  - hybrid
+  - subscription
+  units: []
+  plans:
+  - name: Pre-validation (optional)
+    access: other
+    model: subscription
+    model_how: derived
+    units:
+    - other
+    periods:
+    - year
+  - name: Platform subscription — Removal (Category A)
+    access: other
+    model: hybrid
+    model_how: derived
+    units: []
+    periods:
+    - year
+  - name: Platform subscription — Avoidance (Category B)
+    access: other
+    model: hybrid
+    model_how: derived
+    units: []
+    periods:
+    - year
+  - name: Credit issuance fee (Rainbow Carbon Credit / RCC)
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods: []
